@@ -7,7 +7,7 @@
         "@types/node": "^20.3.1"
     },
     "name": "cout-colors",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "````markdown\r # Cout Package",
     "main": "index.js",
     "scripts": {
