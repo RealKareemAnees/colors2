@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "@types/colors": "^1.2.1",
+        "colors": "^1.4.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.3.1"
+    }
+}
