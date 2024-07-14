@@ -1,7 +1,7 @@
 var colors = require("colors/safe");
 colors.enable();
 
-class Cout {
+export class Cout {
     private appName: string;
     private pid: number;
     private className: string;
@@ -90,9 +90,7 @@ class Cout {
             " ",
             colors.yellow.bold(`[${this.className}]`),
             " ",
-            colorFn(message),
+            colorFn(message)
         );
     }
 }
-
-
